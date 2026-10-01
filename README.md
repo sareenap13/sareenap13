@@ -11,7 +11,7 @@ How do four LLMs respond when someone describes suicidal thoughts? I rebuilt the
 A two-player health competition. Friends log water, steps, workouts, mobility and sleep, and scores sync live and reset every 14 days.
 
 **[minivsaas](https://github.com/sareenap13/minivsaas)**
-Real-time video analytics on YOLOv8 and ByteTrack. It tracks objects, estimates direction of travel, flags loitering and draws a live heat map.
+Real-time video analytics on YOLOv8 and ByteTrack. It tracks objects, estimates direction of travel, flags loitering and draws a live heat map. A sports mode adapts it to game footage and measures the distance each player covers.
 
 **[bookrecommender](https://github.com/sareenap13/bookrecommender)**
 Book recommendations from a Goodreads export. It ranks with sentence-transformer embeddings, Bayesian-smoothed ratings and popularity.
