@@ -22,8 +22,8 @@ A Monte Carlo engine for the 48-team 2026 World Cup with a Poisson goal model an
 ## Background
 
 - Senior thesis, passed with distinction. A 40-person experiment on how competing against a partner changes working memory. Competition reduced misses and sped up recall.
-- Research assistant in the Davachi Memory Lab at Columbia, working with fMRI data.
 - AI intern at Kura Labs. Built LLM-powered learning advisors and agentic pipelines with n8n, Canvas and ServiceNow.
+- Research assistant in the Davachi Memory Lab at Columbia, working with fMRI data.
 
 ## Tools
 
