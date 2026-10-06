@@ -2,6 +2,8 @@
 
 I studied cognitive science with an AI focus at Barnard College, Columbia University, with minors in statistics and psychology. I focus on the gap between what an AI system seems to do and what it actually does. 
 
+Linkedin: www.linkedin.com/in/sareena-parikh-80720024b
+
 ## Projects
 
 **[llm-crisis-response-eval](https://github.com/sareenap13/llm-crisis-response-eval)**
